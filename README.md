@@ -1,4 +1,7 @@
 # Instructions 
+
+## Tested on Xubuntu 18
+
 ### Installation 
 ```
 git clone https://github.com/WPServer/ && cd WPServer
